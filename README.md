@@ -7,7 +7,7 @@
 <!-- CI/CD Badges -->
 [![CI Pipeline](https://github.com/aqib-dev0/low-code-agent-tool/actions/workflows/main-ci.yml/badge.svg)](https://github.com/aqib-dev0/low-code-agent-tool/actions/workflows/main-ci.yml)
 [![API Tests](https://github.com/aqib-dev0/low-code-agent-tool/actions/workflows/api-tests.yml/badge.svg)](https://github.com/aqib-dev0/low-code-agent-tool/actions/workflows/api-tests.yml)
-[![codecov](https://codecov.io/gh/aqib-dev0/low-code-agent-tool/branch/main/graph/badge.svg)](https://codecov.io/gh/aqib-dev0/low-code-agent-tool)
+[![codecov](https://codecov.io/gh/aqib-dev0/low-code-agent-tool/branch/master/graph/badge.svg)](https://codecov.io/gh/aqib-dev0/low-code-agent-tool)
 
 
 <!-- Tech Stack Badges -->
@@ -403,7 +403,7 @@ Our CI/CD pipeline runs on every push and pull request:
 We use [Codecov](https://codecov.io/gh/aqib-dev0/low-code-agent-tool) for code coverage tracking:
 
 
-[![codecov](https://codecov.io/gh/aqib-dev0/low-code-agent-tool/branch/main/graph/badge.svg)](https://codecov.io/gh/aqib-dev0/low-code-agent-tool)
+[![codecov](https://codecov.io/gh/aqib-dev0/low-code-agent-tool/branch/master/graph/badge.svg)](https://codecov.io/gh/aqib-dev0/low-code-agent-tool)
 
 
 Coverage reports are generated for every pull request with inline annotations.
