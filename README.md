@@ -459,10 +459,10 @@ Helm charts are provided in the `helm/` directory:
 
 ```bash
 # Install
-helm install low-code-agent-tool ./helm/synkora
+helm install low-code-agent-tool ./helm/low-code-agent
 
 # Upgrade
-helm upgrade low-code-agent-tool ./helm/synkora
+helm upgrade low-code-agent-tool ./helm/low-code-agent
 
 # Uninstall
 helm uninstall low-code-agent-tool
